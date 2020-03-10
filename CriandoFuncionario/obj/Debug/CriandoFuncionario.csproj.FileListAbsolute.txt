@@ -1,0 +1,7 @@
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\bin\Debug\CriandoFuncionario.exe.config
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\bin\Debug\CriandoFuncionario.exe
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\bin\Debug\CriandoFuncionario.pdb
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\obj\Debug\CriandoFuncionario.csprojAssemblyReference.cache
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\obj\Debug\CriandoFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\obj\Debug\CriandoFuncionario.exe
+C:\Users\816517\Desktop\CriandoVariaveis\CriandoFuncionario\obj\Debug\CriandoFuncionario.pdb
